@@ -8,7 +8,7 @@ robot --outputdir output .\tests\
 ```
 **Test Report**
 To see test report please see folder **output** :
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/gilang-parjiyo/robotframework-appiumlibrary/blob/master/devdata/Report%20Example.png)
 
 
 ## Development guide
