@@ -2,11 +2,13 @@
 **This project automates the process of buying merchandise at SauceLab**
 
 **Run Project**
+
 To run this project go to main folder and open terminal then run script below :
 ```js
 robot --outputdir output .\tests\
 ```
 **Test Report**
+
 To see test report please see folder **output** :
 ![Image of Yaktocat](https://github.com/gilang-parjiyo/robotframework-appiumlibrary/blob/master/devdata/Report%20Example.png)
 
